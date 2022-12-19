@@ -1,0 +1,10 @@
+2,entity: Twitter	type: ORG
+4,entity: Mike Solana	type: PERSON
+5,entity: Barnacules Rodney A.I	type: PERSON
+6,entity: 5-6 years	type: DATE
+10,entity: Dogetter	type: PERSON
+15,entity: #ChatGPT	type: ORG
+15,entity: Christmas	type: DATE
+18,"entity: 1,000,000	type: CARDINAL"
+19,"entity: 1,000,000	type: CARDINAL"
+20,entity: ChatGPT	type: ORG

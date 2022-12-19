@@ -1,0 +1,45 @@
+2,entity: 22 year old	type: DATE
+2,entity: 65	type: CARDINAL
+2,entity: Vietnam	type: GPE
+3,entity: IAD	type: ORG
+3,entity: BDL	type: ORG
+3,entity: around 1:30	type: TIME
+3,entity: another 1hr	type: TIME
+4,entity: Mesa	type: ORG
+4,entity: American Airlines	type: ORG
+4,entity: United	type: ORG
+5,entity: United A320	type: ORG
+5,entity: Mexico City	type: GPE
+5,entity: Dec 17th 2022	type: DATE
+6,entity: One	type: CARDINAL
+6,entity: Airlines #UnitedAirlines	type: ORG
+6,entity: Workers	type: ORG
+6,entity: $18.04 cent	type: MONEY
+6,entity: Delta	type: ORG
+6,entity: AmericanAir	type: ORG
+6,entity: over $23	type: MONEY
+7,entity: Amazon	type: ORG
+7,entity: Tyson Foods Inc.	type: ORG
+7,entity: Walmart	type: ORG
+7,entity: About Your Family's	type: ORG
+9,entity: Washington	type: GPE
+10,entity: VirginAustralia	type: ORG
+10,entity: #UnitedAirlines	type: ORG
+10,entity: Platinum	type: ORG
+10,entity: VirginAus	type: PRODUCT
+11,entity: United States	type: GPE
+11,entity: Hartsfield-Jackson Atlanta International Airport	type: ORG
+12,entity: United Airlines	type: ORG
+12,entity: Newark	type: GPE
+15,entity: United Airlines	type: ORG
+15,entity: $15 Million	type: MONEY
+16,entity: Houston	type: GPE
+17,entity: Theodora Francesca	type: PERSON
+19,entity: MFE	type: ORG
+19,entity: McAllen Tx)	type: ORG
+19,entity: 737-MAX8	type: PRODUCT
+19,entity: First MAX	type: ORG
+20,entity: MFE	type: ORG
+20,entity: McAllen Tx)	type: ORG
+20,entity: 737-MAX8	type: PRODUCT
+20,entity: First MAX	type: ORG

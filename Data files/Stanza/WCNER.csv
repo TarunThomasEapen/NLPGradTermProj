@@ -1,0 +1,33 @@
+2,entity: WorldCup	type: ORG
+3,entity: Elon	type: PERSON
+3,entity: WorldCup	type: ORG
+3,entity: Jared Kushner	type: PERSON
+5,entity: Argentina	type: GPE
+6,entity: ElonMusk	type: PERSON
+6,entity: JaredKushner	type: PERSON
+6,entity: WorldCup	type: FAC
+7,entity: 10	type: CARDINAL
+10,entity: 16 years	type: DATE
+10,entity: Europe	type: LOC
+11,entity: ElonMusk	type: PERSON
+11,entity: JaredKushner	type: PERSON
+11,entity: WorldCup	type: FAC
+13,entity: Maradona	type: PERSON
+13,entity: Englishman	type: NORP
+14,entity: Messi Mkhize	type: PERSON
+15,entity: Reuters	type: ORG
+15,entity: 14-year old	type: DATE
+15,entity: one	type: CARDINAL
+15,entity: Tehran	type: GPE
+16,entity: Reuters	type: ORG
+16,entity: 14-year old	type: DATE
+16,entity: one	type: CARDINAL
+16,entity: Tehran	type: GPE
+18,entity: Qatar 2022 #WorldCup	type: WORK_OF_ART
+19,entity: one	type: CARDINAL
+19,entity: Qatar	type: GPE
+19,entity: World Cup	type: EVENT
+20,entity: Reuters	type: ORG
+20,entity: 14-year old	type: DATE
+20,entity: one	type: CARDINAL
+20,entity: Tehran	type: GPE
