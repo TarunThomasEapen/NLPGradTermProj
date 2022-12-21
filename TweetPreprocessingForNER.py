@@ -1,4 +1,4 @@
-import TweetTokenizerForNER as tk
+import TweetNormalizerForNER as tk
 import csv
 
 if __name__ == '__main__':
