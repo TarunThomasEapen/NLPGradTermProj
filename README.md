@@ -1,4 +1,6 @@
 # NLPGradTermProj
+GRAD Term project submission for Tarun Thomas Eapen
+
 
 TweetCollector.py - Tweet collection logic using Tweepy
 
